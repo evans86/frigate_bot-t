@@ -1,8 +1,8 @@
 <div class="sidebar">
     <div class="sidebar-wrapper">
         <div class="logo">
-            <a href="/" class="simple-text logo-mini">{{ __('PX') }}</a>
-            <a href="/" class="simple-text logo-normal">{{ __('Proxy') }}</a>
+            <a href="/" class="simple-text logo-mini">{{ __('FG') }}</a>
+            <a href="/" class="simple-text logo-normal">{{ __('Frigate') }}</a>
         </div>
         <ul class="nav">
             <li @if ($pageSlug == 'countries') class="active " @endif>
